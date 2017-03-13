@@ -1,5 +1,8 @@
 _repo: The-Mutiny-of-the-Elsinore_2415
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -15,6 +18,8 @@ description: Life has lost its savor for Mr. Pathurst. New York, fame, women, th
   Cape Horn. Pathurst encounters more than he ever expected in rough seas, turbulent
   storms, and a mutinous crew. His epic struggles aboard the sailing ship Elsinore
   have given him a new love for life, but will he survive in time to profit from it?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2415#The-Mutiny-of-the-Elsinore
 gutenberg_issued: '2000-12-01'
 gutenberg_type: Text
 identifiers:
